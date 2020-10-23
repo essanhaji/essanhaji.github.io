@@ -1,1 +1,1 @@
-"# fast-and-trust" 
+"# Trust and Fast" 
